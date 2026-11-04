@@ -1,0 +1,1 @@
+This is a website of a 3D calculator that helps people solve basic operations. The website has been made with practicality and creativity at mind, making it appealing to users visually and solving problems efficiently.
