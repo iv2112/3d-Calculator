@@ -30,13 +30,16 @@ input {
   width: 320px;
   border: none;
   padding: 24px;
-  margin: 10px;
+  margin-top: 15px;
+  margin-left: 12px;
+  margin-right: 12px;
   background: transparent;
   box-shadow: 0px 5px 15px rgba(108, 108, 108, 0.3);
   font-size: 40px;
   text-align: right;
   cursor: pointer;
   color: rgb(255, 255, 255);
+  margin-bottom: 40px;
 }
 
 input::placeholder {
